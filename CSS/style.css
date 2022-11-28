@@ -470,6 +470,11 @@ margin-top: 10px;
     .contact .container .contact-box{
         flex-direction: column;
     }
+    
+    .popup-box img{
+        width: 250px;
+        height: 200px;
+     }
    
 }
 
